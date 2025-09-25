@@ -1,106 +1,80 @@
-# 👋 ¡Hola! Soy Oscar Rafael Contreras Flota
-
+# Oscar Rafael Contreras Flota
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;7+años+de+experiencia;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Senior+PHP+%26+Full+Stack+Engineer;7+a%C3%B1os+de+experiencia;Backends+en+PHP+8%2FLaravel+%2B+MySQL;Automatizaciones%2C+APIs+y+reportes+PDF%2FExcel" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre mí
+> **Senior PHP & Full‑Stack Engineer — 7 años.** Diseño e implemento backends en **PHP 8/Laravel** con **MySQL** de alto rendimiento, **APIs seguras**, automatizaciones y paneles administrativos para entornos educativos y empresariales.
 
-¡Hola! Soy **Oscar Rafael Contreras Flota**, un desarrollador Full Stack de **33 años** con **7 años de experiencia** creando soluciones tecnológicas innovadoras. Mi pasión por la programación me impulsa a estar siempre actualizado con las últimas tecnologías y mejores prácticas del desarrollo de software.
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raidolContreras&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trofeos de GitHub" />
-</div>
+## 🧭 Resumen rápido
+- **Backend experto:** PHP 8, Laravel, MySQL (índices, EXPLAIN, caché, profiling).
+- **APIs y seguridad:** roles/permisos, CSRF, rate‑limit.
+- **Automatización:** crons, webhooks, colas, reportes **PDF/Excel**, notificaciones (email/WhatsApp).
+- **Integraciones:** Ionos SMTP (PHPMailer), UltraMsg (WhatsApp), **Zoho CRM**, **DigitalFemsa (OXXO)**.
+- **Frontend práctico:** Bootstrap 5, DataTables, JS/React cuando aporta valor.
 
-## 💻 Stack Tecnológico
+## 🛠️ Stack principal
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+## 🚀 Proyectos destacados
+- **Servicio Social (UNIMO) – Backend/API**  
+  PHP 8 + MySQL, roles/permisos, flujos de alta/validación, **PDF** y **correos transaccionales**.  
+  _Stack:_ Laravel, Dompdf, PHPMailer, DataTables, Bootstrap 5. _(Repositorio institucional)_
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- **Gestor de Prácticas Profesionales**  
+  Administración completa, reportes **Excel/PDF**, paneles, y automatizaciones por **cron**.  
+  _Stack:_ PHP 8, MySQL (índices y vistas), Bootstrap/DataTables, Quill para plantillas.
 
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Flipbook – Revista digital**  
+  Revista digital interactiva con navegación tipo libro.  
+  _Stack:_ PHP 8, MySQL, Bootstrap 5.
 
-### Herramientas y Tecnologías
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+- **Mailing masivo con plantillas**  
+  Editor HTML (Quill), adjuntos (Dropzone), SMTP Ionos, **seguimiento y logs**.  
+  _Stack:_ PHP 8, PHPMailer, .env, Quill, Bootstrap 5.
 
-## 🎯 Lo que hago actualmente
+- **Pagos con OXXO (DigitalFemsa) y conciliación**  
+  Webhook seguro, actualización de estados, **comprobantes en PDF** y **notificaciones**.  
+  _Stack:_ PHP 8, MySQL, DigitalFemsa, Dompdf, PHPMailer.
 
-- 🔭 **Trabajando en:** Desarrollo de aplicaciones web modernas y escalables
-- 🌱 **Aprendiendo:** Nuevas tecnologías en Cloud Computing y DevOps
-- 👥 **Colaborando en:** Proyectos de código abierto y soluciones empresariales
-- 💡 **Interesado en:** Arquitecturas de microservicios y desarrollo móvil
-- 🎓 **Mejorando:** Mis habilidades en inteligencia artificial y machine learning
+> _Puedo compartir **demos** o **casos de estudio** bajo solicitud._
 
-## 📊 Estadísticas de GitHub
+## 📈 Cómo trabajo
+- **Rendimiento primero:** consultas optimizadas, índices adecuados, caching, paginación real, profiling con EXPLAIN.
+- **Seguridad by default:** validación/escape, CSRF, password hashing, control de permisos granular.
+- **Observabilidad:** logs con contexto, manejo de errores, auditoría de cambios.
+- **DX y mantenibilidad:** estándares de código, `.env`, scripts de despliegue, documentación clara.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raidolContreras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raidolContreras&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</div>
+## 🤝 Servicios
+- Diseño/optimización de **APIs PHP/Laravel** y **bases de datos MySQL**.
+- Migración y modernización de sistemas legacy.
+- Integraciones (Zoho, UltraMsg/WhatsApp, SMTP Ionos, pasarelas de pago).
+- Automatizaciones, ETL ligeras, reportes **PDF/Excel**.
+- Auditoría de seguridad y performance, **code review**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidolContreras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
-</div>
-
-## 🏆 Experiencia y Logros
-
-- **7 años** de experiencia en desarrollo Full Stack
-- Experiencia en **desarrollo de aplicaciones web** desde el frontend hasta el backend
-- Conocimiento profundo en **arquitecturas escalables** y **mejores prácticas**
-- Experiencia trabajando con **equipos multidisciplinarios**
-- Capacidad para **liderar proyectos** técnicos y **mentoría** a desarrolladores junior
-
-## 💼 Servicios que ofrezco
-
-- ✅ Desarrollo de aplicaciones web completas (Frontend + Backend)
-- ✅ APIs RESTful y GraphQL
-- ✅ Arquitectura de sistemas escalables
-- ✅ Consultoría técnica
-- ✅ Code review y optimización de código
-- ✅ Migración y modernización de aplicaciones legacy
-
-## 📫 ¿Cómo contactarme?
-
+## 📬 Contacto (mejor canal)
 <div align="center">
   
+[![Email](https://img.shields.io/badge/Email-oscarcontrerasf91%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarcontrerasf91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rafael-contreras-flota/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raidolContreras)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarcontrerasf91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devosco-io-duckdns-org-757326.hostingersite.com/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Live-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devosco-io-duckdns-org-757326.hostingersite.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-raidolContreras-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raidolContreras)
 
-</div>
-
-## ⚡ Datos curiosos
-
-- 🎯 Perfeccionista del código limpio y las buenas prácticas
-- 🚀 Siempre busco optimizar el rendimiento y la experiencia del usuario
-- 📚 Me encanta aprender nuevas tecnologías y compartir conocimiento
-- ☕ El café es mi combustible para programar
-- 🎮 En mi tiempo libre disfruto de los videojuegos y la tecnología
-
-## 📈 Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raidolContreras&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad" />
 </div>
 
 ---
 
-<div align="center">
-  <p>💙 Gracias por visitar mi perfil. ¡No dudes en contactarme para colaborar en proyectos interesantes!</p>
-  
-  ![Contador de visitas](https://komarev.com/ghpvc/?username=raidolContreras&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
-</div>
+<details>
+  <summary>📊 Ver estadísticas de GitHub (opcional)</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raidolContreras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidolContreras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
+  </div>
+  <!-- Se omiten trofeos, gráfico de actividad y contador de visitas para mantenerlo profesional y enfocado. -->
+</details>
